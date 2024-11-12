@@ -158,7 +158,7 @@ clear
 uptime
 ```
 *Sistemin çalışma süresi ve yük durumunun gösterilmesi*:point_down:<br>
-![uptime](https://github.com/user-attachments/assets/3494eeea-a126-49c6-890b-9df2fad5d0a2)
+![uptime](https://github.com/user-attachments/assets/3494eeea-a126-49c6-890b-9df2fad5d0a2) 
 
 
 
